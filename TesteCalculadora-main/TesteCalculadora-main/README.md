@@ -1,23 +1,10 @@
 # Calculadora
 
-  introdução
+Introdução
+A finalidade da máquina de cálculos é executar operações básicas, como adição, subtração, divisão e multiplicação.
 
-    A calculadora tem como objetivo realizar funções basicas
-    soma, subtração, divisão e multiplicação
+Operações
+Visando a análise e teste de software, a máquina de cálculos foi submetida a testes, realizando cálculos simples e documentando o comportamento dos resultados obtidos.
 
-  Funções
-  
-    Com o objetivo de estudar teste software a calculadora foi testada, 
-    de forma a ser feita contas basicas e documentar o corpotamentamento 
-    dos resultados das mesmas.
-
-  Como usar?
-  
-    O usuario deve, colocar os valores que deseja em java, o teste vai
-    retornar de acordo com o teste feito.
-
-
-
-![image (2)](https://github.com/GabrielSichoski/Calcudora/assets/104863390/e291c02e-aed7-487d-a44a-507162abb479)
-
-
+Instruções de Utilização
+Para utilizar, o utilizador deverá inserir os valores desejados em Java. O teste irá retornar os resultados de acordo com a operação realizada.
