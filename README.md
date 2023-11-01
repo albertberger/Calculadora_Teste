@@ -1,10 +1,10 @@
 # Calculadora_Teste
 
-##Documento
+## Documento
 
 <p>Classes de negócio</p>
 
-##Classe de soma
+## Classe de soma
 
 <p>Classe soma documentada</p>
 
@@ -24,7 +24,7 @@
         }
     }
 
-##Classe de divisao
+## Classe de divisao
 
 <p>Classe divisao documentada</p>
 
@@ -44,7 +44,7 @@
         }
     }
 
-##Classe multiplicacao
+## Classe multiplicacao
 
 <p>Classe multiplicacao documentada</p>
 
@@ -64,7 +64,7 @@
       }  
     }
 
-##Classe subtracao
+## Classe subtracao
 
 <p>Classe subtracao documentada</p>
 
